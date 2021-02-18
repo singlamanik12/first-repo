@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Furniture",
+    "value": 1
+  },
+  {
+    "label": "Clothing",
+    "value": 2
+  },
+  {
+    "label": "Sweets",
+    "value": 3
+  },
+  {
+    "label": "Beauty",
+    "value": 4
+  },
+  {
+    "label": "Salon",
+    "value": 5
+  },
+  {
+    "label": "Footwear",
+    "value": 6
+  },
+  {
+    "label": "Sanitary",
+    "value": 7
+  },
+  {
+    "label": "Home Decor",
+    "value": 8
+  },
+  {
+    "label": "Electronics",
+    "value": 9
+  }
+]
